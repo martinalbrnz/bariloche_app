@@ -1,12 +1,15 @@
 # bariloche_app
 
-A new Flutter project.
+A simple countdown, with the possibility to change the background.
+To run the project:
+```
+$cd bariloche_app
+$flutter run
+```
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+This project was made using Flutter.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
